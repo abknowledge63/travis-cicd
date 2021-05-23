@@ -15,17 +15,13 @@ script:
 deploy:
   provider: elasticbeanstalk
   region: "eu-central-1"
+  app: "travis-cicd"
+  env: "Traviscicd-env"
+  bucket_name: "elasticbeanstalk-eu-central-1-028103363534"
+  bucket_path: "Travis-cicd"
+  on:
+    branch: master
 
-Traviscicd-env.eba-uvpc2fwx.eu-central-1.elasticbeanstalk.com 
-
-app: "travis-cicd"
-
-env: "Traviscicd-env"
-bucket_name: "elasticbeanstalk-eu-central-1-028103363534"
-bucket_path: "Travis-cicd"
-on:
-  branch: master
-
-access_key_id: $AWS_ACCESS_KEY
-secret_access_key: $AWS_SECRET_KEY
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key: $AWS_SECRET_KEY
 
