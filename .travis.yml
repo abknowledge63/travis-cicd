@@ -12,4 +12,9 @@ before_install:
 script:
   - docker run -e CI=true abarry/travis-cicd npm run test
 
+deploy:
+  provider: elasticbeanstalk
+  region:
+
+Traviscicd-env.eba-uvpc2fwx.eu-central-1.elasticbeanstalk.com 
 
