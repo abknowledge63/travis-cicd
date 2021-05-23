@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi Golody Keep on understanding again then again on ElasticBeanStack with Dedication
+          Hi Golody Keep on deploying on ElasticBeanStack using on feature branch
         </p>
         <a
           className="App-link"
