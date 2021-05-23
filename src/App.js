@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi Golody Keep on understanding again then again
+          Hi Golody Keep on understanding again then again on ElasticBeanStack with Dedication
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Golody
+          Learn React with Golody 2.0 AB
         </a>
       </header>
     </div>
