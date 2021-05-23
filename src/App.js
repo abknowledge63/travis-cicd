@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi Golody Keep on deploying on ElasticBeanStack using on feature branch
+          Hi Golody Keep on deploying on ElasticBeanStack using on feature branch 3.0
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Golody 2.0 AB
+          Learn React with Golody 3.0 95000
         </a>
       </header>
     </div>
