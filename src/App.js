@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Golody 2.0 AB
+          Learn React with Golody 3.0 95000
         </a>
       </header>
     </div>
